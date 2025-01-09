@@ -14,7 +14,7 @@ const profileSettings = {
   location: "Lampung, Pringsewu, Indonesia", // Lokasi
   backgroundImage: "media/background.jpg", // Latar belakang halaman
   links: [
-    { title: "GitHub", url: "https://github.com/yanoffc", icon: "fa-github" }, // Tautan GitHub
+    { title: "GitHub", url: "https://github.com/rifalos", icon: "fa-github" }, // Tautan GitHub
     { title: "LinkedIn", url: "https://www.linkedin.com/in/yanoffc", icon: "fa-linkedin" }, // Tautan LinkedIn
     { title: "Twitter", url: "https://twitter.com/riyanrfai", icon: "fa-twitter" }, // Tautan Twitter
     { title: "Instagram", url: "https://www.instagram.com/riyanrfai", icon: "fa-instagram" }, // Tautan Instagram
