@@ -18,7 +18,7 @@ const profileSettings = {
     { title: "LinkedIn", url: "https://www.linkedin.com/in/yanoffc", icon: "fa-linkedin" }, // Tautan LinkedIn
     { title: "Twitter", url: "https://twitter.com/riyanrfai", icon: "fa-twitter" }, // Tautan Twitter
     { title: "Instagram", url: "https://www.instagram.com/riyanrfai", icon: "fa-instagram" }, // Tautan Instagram
-    { title: "Telegram", url: "https://t.me/rifaloss", icon: "fa-telegram" }, // Tautan Telegram
+    { title: "Telegram", url: "https://t.me/PocoNoob", icon: "fa-telegram" }, // Tautan Telegram
     { title: "Email", url: "mailto:rifairiyan18@example.com", icon: "fa-envelope" }, // Tautan Email
     { title: "WhatsApp", url: "https://whatsapp.com/channel/0029VaX3ewHHAdNZpXvtzz0q", icon: "fa-whatsapp" }, // Tautan WhatsApp
     { title: "YouTube", url: "https://youtube.com/@BANGYANOFFICIAL", icon: "fa-youtube" } // Tautan YouTube
