@@ -15,7 +15,7 @@ const profileSettings = {
   backgroundImage: "media/background.jpg", // Latar belakang halaman
   links: [
     { title: "GitHub", url: "https://github.com/yanoffc", icon: "fa-github" }, // Tautan GitHub
-    { title: "LinkedIn", url: "https://www.linkedin.com/in/yanoffc", icon: "fa-linkedin" }, // Tautan LinkedIn
+    { title: "Tiktok", url: "https://www.tiktok.com/riyanrfai", icon: "fa-tiktok" }, // Tautan LinkedIn
     { title: "Twitter", url: "https://twitter.com/riyanrfai", icon: "fa-twitter" }, // Tautan Twitter
     { title: "Instagram", url: "https://www.instagram.com/riyanrfai", icon: "fa-instagram" }, // Tautan Instagram
     { title: "Telegram", url: "https://t.me/PocoNoob", icon: "fa-telegram" }, // Tautan Telegram
